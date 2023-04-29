@@ -1,0 +1,38 @@
+.contenedor-test {
+    width: 1100px;
+    height:368px;
+    margin: 10px 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#fff ;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0/ 9%);
+}
+.contenedor-imagen {
+    height: 100%;
+    width: auto;
+   
+}
+.contenedor-text-test {
+
+    text-align: center;
+    padding: 40px;
+    font-family: Lato,sans-serif;
+    font-weight: 400px;
+    line-height: 1.5rem;
+  
+}
+.nombre-test {
+    font-size: 1.3rem;
+}
+.cargo.test {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+.texto-test {
+    font-size: 1.1rem;
+    text-align: justify;
+    width: auto;
+}
+
